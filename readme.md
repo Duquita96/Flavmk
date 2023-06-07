@@ -4,11 +4,11 @@
 
 ## Checkboxes
 
-- [ ] External Link to [GitHub Documentation](#external-link)
-- [ ] Internal Link to the [end](#end)
-- [ ] [images](#images)
-- [ ] [emojis](#emojis)
-- [ ] [table](#table)
+- [x] External Link to [GitHub Documentation](#external-link)
+- [x] Internal Link to the [end](#end)
+- [x] [images](#images)
+- [x] [emojis](#emojis)
+- [x] [table](#table)
 
 ## external link
 
