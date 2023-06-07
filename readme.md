@@ -6,9 +6,9 @@
 
 - [ ] External Link to [GitHub Documentation](#external-link)
 - [ ] Internal Link to the [end](#end)
-- [ ] Images [images](#images)
-- [ ] Emojis [emojis](#emojis)
-- [ ] Tables [table](#table)
+- [ ] [images](#images)
+- [ ] [emojis](#emojis)
+- [ ] [table](#table)
 
 ## external link
 
