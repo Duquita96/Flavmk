@@ -1,6 +1,6 @@
 # Github Flavoured Markdown
 
-## Second level heading
+## Awesome repo
 
 ## Checkboxes
 
